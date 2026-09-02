@@ -1,21 +1,27 @@
-Описание проекта:
-To Do List — это простое веб-приложение для управления задачами.
-Приложение позволяет добавлять новые задачи, удалять их и отмечать как выполненные.
-Также реализовано сохранение данных с использованием localStorage, благодаря чему задачи не удаляются после перезагрузки страницы.
-Проект создан для практики работы с HTML, CSS и JavaScript и улучшения навыков работы с DOM и событиями.
+## To-Do List
 
-Возможности:
-1.Добавление новой задачи.
-2.Отметка задачи как выполненной.
-3.Удаление отдельной задачи.
-4.Удаление всех задач.
-5.Поиск задач.
-6.Автоматическое сохранение при перезагрузке страницы.
-7.Отображение количества задач (счётчик).
-8.Адаптивный дизайн (корректное отображение на различных устройствах).
+To-Do List is a simple web application for managing daily tasks. The application allows users to add new tasks, mark them as completed, and remove them.
 
-Используемые технологии:
-HTML5
-CSS3
-JavaScript (ES6)
-localStorage API
+Task data is stored using the localStorage API, ensuring that tasks remain available even after the page is refreshed.
+
+This project was created to practice working with HTML, CSS, and JavaScript, as well as to improve skills in DOM manipulation and event handling.
+
+## Features
+
+* Add new tasks
+* Mark tasks as completed
+* Delete individual tasks
+* Delete all tasks
+* Search for tasks
+* Automatically save tasks after page refresh
+* Display the total number of tasks with a task counter
+* Responsive design for different screen sizes and devices
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* localStorage API
+* DOM manipulation
+* Event handling
